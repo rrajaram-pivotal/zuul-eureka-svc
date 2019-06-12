@@ -1,0 +1,13 @@
+package io.pivotal.samples.scs.svcs;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BluegreensvcApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BlueGreenSvcApplication.class, args);
+	}
+
+}

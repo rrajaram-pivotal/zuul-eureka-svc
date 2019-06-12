@@ -1,0 +1,5 @@
+package io.pivotal.samples.scs.svcs;
+
+public class ColorProperties {
+
+}

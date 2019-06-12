@@ -1,0 +1,13 @@
+package io.pivotal.samples.scs.svclb;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ZuulSvrApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ZuulSvrApplication.class, args);
+	}
+
+}
